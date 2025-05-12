@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deloession67
 - 👀 I’m interested in End User Device management
-- 🌱 I’m currently learning Git, Chocolatey, Puppet
+- 🌱 I’m currently learning Git, FleetDM, Python, Ruby
 
 <!---
 Deloession67/Deloession67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
